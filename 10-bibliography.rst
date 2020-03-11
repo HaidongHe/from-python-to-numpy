@@ -2,9 +2,9 @@
 Bibliography
 ===============================================================================
 
-This is a curated list of some numpy related resources (articles, books &
-tutorials) addressing different aspects of numpy. Some are very specific to
-numpy/Scipy while some others offer a broader view on numerical computing.
+This is a curated list of some NumPy related resources (articles, books &
+tutorials) addressing different aspects of NumPy. Some are very specific to
+NumPy/Scipy while some others offer a broader view on numerical computing.
 
 .. contents:: **Contents**
    :local:
@@ -29,7 +29,7 @@ Tutorials
 .. _tutorial-5: http://cs231n.github.io/python-numpy-tutorial/
 
 .. |tutorial-6| replace:: Quickstart tutorial
-.. _tutorial-6: https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+.. _tutorial-6: https://docs.scipy.org/doc/numpy/user/quickstart.html
 
 .. |tutorial-7| replace:: Numpy medkits
 .. _tutorial-7: http://mentat.za.net/numpy/numpy_advanced_slides/
